@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+My favorite things include:
+* My dog :heart:
+* Video games :+1:
+* Tea :smile:
